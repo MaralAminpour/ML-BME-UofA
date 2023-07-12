@@ -1,0 +1,7 @@
+This is a copy of 'nameslist.txt'
+Emma
+Maria
+Julia
+Andy
+Eric
+James
